@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab_7_Exercise</string>
+    <string name="title_activity_second">SecondAct</string>
+    <string name="title_activity_third">ThirdAct</string>
+    <string name="update2">Update2</string>
+    <string name="update1">Update1</string>
+    <string name="update">Update</string>
+    <string name="Update">Update</string>
+    <string name="open_portal">Open portal</string>
+    <string name="button">Button</string>
+    <string name="call">call</string>
+    <string name="en">EN</string>
+    <string name="jp">JP</string>
+</resources>

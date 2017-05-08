@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مختبر _7_ ممارسة</string>
+    <string name="title_activity_second">سيكونداكت</string>
+    <string name="title_activity_third"> ثيرداكت</string>
+    <string name="update2"> التحديث 2</string>
+    <string name="update1"> تحديث 1</string>
+    <string name="update">تحديث</string>
+    <string name="Update">تحديث</string>
+    <string name="open_portal"> فتح البوابة</string>
+    <string name="button">زر</string>
+    <string name="call">مكالمة</string>
+</resources>

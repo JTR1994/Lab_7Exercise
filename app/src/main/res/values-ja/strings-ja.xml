@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ラボ_7_エクササイズ</string>
+    <string name="title_activity_second">第二法</string>
+    <string name="title_activity_third">第三法</string>
+    <string name="update2">アップデート2</string>
+    <string name="update1">アップデート1</string>
+    <string name="update">更新</string>
+    <string name="Update">更新</string>
+    <string name="open_portal">ポータルを開く</string>
+    <string name="button">ボタン</string>
+    <string name="call">コール</string>
+</resources>

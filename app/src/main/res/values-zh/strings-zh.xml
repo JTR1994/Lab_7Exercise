@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">实验_7_练习</string>
+    <string name="title_activity_second">第二节</string>
+    <string name="title_activity_third">第三节</string>
+    <string name="update2">更新2</string>
+    <string name="update1">更新1</string>
+    <string name="update">更新</string>
+    <string name="Update">更新</string>
+    <string name="open_portal">打开链接</string>
+    <string name="button">按钮</string>
+    <string name="call">呼叫</string>
+</resources>
